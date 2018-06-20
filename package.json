@@ -6,9 +6,8 @@
   "description": "natural",
   "dependencies": {
     "hubot": "^3.0.1",
-    "hubot-redis-brain": "^1.0.0",
-    "hubot-rivescript": "^0.1.1",
-    "rivescript": "^2.0.0-alpha.3"
+    "hubot-markov": "^2.1.0",
+    "hubot-redis-brain": "^1.0.0"
   },
   "engines": {
     "node": "> 4.0.0"
