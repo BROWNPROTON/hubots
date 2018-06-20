@@ -1,1 +1,1 @@
-# hubots
+# rivescript
